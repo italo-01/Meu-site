@@ -17,16 +17,6 @@ Este projeto foi construído empregando apenas tecnologias web nativas, a fim de
 *   **Mobile-First Design:** Layout projetado primariamente para dispositivos móveis. Em resoluções maiores, a interface é encapsulada em um contêiner restrito para manter a fidelidade visual de uma aplicação nativa (app-like feel).
 *   **Single-file Deployment:** Estrutura unificada em um único arquivo `index.html`. Toda a estilização e ícones estão inseridos no próprio arquivo, facilitando o deploy instantâneo em qualquer servidor estático ou CDN (GitHub Pages, Vercel, AWS S3, etc).
 
-## Como Executar
-
-Por tratar-se de uma página estática pura, não há processos de build, compilação ou execução de scripts.
-
-1. Clone o repositório em sua máquina:
-   ```bash
-   git clone https://github.com/italo-01/Meu-site.git
-   ```
-2. Abra o arquivo `index.html` em qualquer navegador web.
-
 ## Autor
 
 **Italo Costa**
